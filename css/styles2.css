@@ -1,0 +1,29 @@
+.dark { background: #696969;
+  color: #F5F5F5;
+  font-family: Comic Sans MS, Comic Sans, cursive !important;}
+  .dark button{ background-color:#2F4F4F;
+   font-family: Comic Sans MS, Comic Sans, cursive;
+    outline: none;}
+  .dark .header {background-color: #2F4F4F;}
+  .dark .header a.logo {color: white !important;}
+.dark .footer {background-color: #2F4F4F; color: #F5F5F5;}
+    .dark  button:hover {background-color: #ddd;
+      color: black;}
+    .dark h1, h2, h3  {color: black;}
+    .dark tr:nth-child(2n) {background: #778899;}
+    .dark .slide figure figcaption {
+  color: black;
+  background: #778899;}
+  .dark .slider-nav__item {
+  background:  black;}
+  .dark .slider-nav__item:hover { background: #bababa; }  
+.dark .slider-nav__item--current, .slider-nav__item--current:hover { background: white; }
+.dark p {text-indent: 1.5em;
+margin: 18px;}
+.dark .photo {
+    float:left;
+    margin: 7px 7px 7px 0; 
+  border: 3px solid  #778899;}
+.dark .pram {
+ border: 3px solid  #778899;
+ padding: 5px;}
